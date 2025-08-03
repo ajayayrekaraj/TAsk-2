@@ -1,6 +1,13 @@
 # Task-2
 <img width="930" height="754" alt="Screenshot 2025-08-03 103419" src="https://github.com/user-attachments/assets/c5fabab7-2f83-40d7-92c3-84f90d0ecb99" />
 
+follow the following steps to run the program
+1 import the NimapTask folder in the Java editor(eclipse).
+  Change the application.properties file according to your database
+2 import Nimap.Postman_Collection.json file in Postman to check the test API.
+3 import the database tables in MySQL to check the output.
+4 Run the Program.
+
 # Api testing
 
 <img width="1538" height="819" alt="Screenshot 2025-08-03 103017" src="https://github.com/user-attachments/assets/7d18344c-4670-4048-9e94-e04e78548258" />
